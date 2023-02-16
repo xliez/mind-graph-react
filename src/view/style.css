@@ -1,0 +1,9 @@
+.m-svg {
+  overflow: visible;
+  position: relative;
+  pointer-events: none;
+}
+
+.m-viewport {
+  overflow: hidden;
+}
