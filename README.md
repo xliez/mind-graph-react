@@ -27,6 +27,5 @@ npm run dev
 ## Technology
 
 - React
-- Typescript
 - D3.js
 - [自动布局算法](https://zhuanlan.zhihu.com/p/573659320)基础上做了方向转换
